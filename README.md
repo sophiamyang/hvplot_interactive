@@ -13,17 +13,15 @@ by Sophia Yang and Marc Skov Madsen
 
 ![DataFrame App](assets/easy-dataframe-exploration.gif)
 
-Check out the code and apps on
-
-| Jupyter Notebook | Jupyter Labs | Panel Apps | Colab |
-| - | - | - | - |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=panel) | [Colab](https://colab.research.google.com/github/MarcSkovMadsen/hvplot_interactive/blob/get-working-on-binder-and-colab/hvplot_interactive.ipynb)
+Check out the notebook and app on Binder
 
 | Jupyter Notebook | Jupyter Labs | Panel Apps |
 | - | - | - |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=panel) |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=panel)
 
-https://colab.research.google.com/github/MarcSkovMadsen/hvplot_interactive/blob/get-working-on-binder-and-colab/hvplot_interactive.ipynb
+or in [Colab](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb)
+
+[![Colab Video](assets/hvplot-example-colab.gif)](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb).
 
 ## Installation
 
@@ -35,15 +33,17 @@ You can use either conda or pip. Here we provide the instructions for conda.
 conda install hvplot panel pandas jupyterlab
 ```
 
-### The right way: virtual environment and Jupyter preview
+You can replace `conda` with [`mamba`](https://github.com/mamba-org/mamba) for better performance.
+
+### Advanced
+
+Includes the [Jupyter Preview](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) and [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) server.
 
 ```bash
 conda create --name hvplot_interactive -c conda-forge hvplot panel pandas jupyterlab jupyter-panel-proxy
 conda activate hvplot_interactive
 jupyter serverextension enable panel.io.jupyter_server_extension
 ```
-
-You can replace `conda` with [`mamba`](https://github.com/mamba-org/mamba) for better performance.
 
 ### Run notebook
 
