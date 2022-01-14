@@ -2,7 +2,7 @@
 
 # Hvplot .interactive - The Easiest Way to Create an Interactive Dashboard
 
-## 🐍🐼📈❤️
+🐍🐼📈❤️
 
 This repo supports the blog post
 
