@@ -1,6 +1,8 @@
 ![Python Versions](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Follow on Twitter](https://img.shields.io/twitter/follow/sophiamyang.svg?style=social)](https://twitter.com/sophiamyang) [![Follow on Twitter](https://img.shields.io/twitter/follow/MarcSkovMadsen.svg?style=social)](https://twitter.com/MarcSkovMadsen)
 
-# Hvplot .interactive - The Easiest Way to Create an Interactive Dashboard in Python 🐍🐼📈❤️
+# Hvplot .interactive - The Easiest Way to Create an Interactive Dashboard
+
+## 🐍🐼📈❤️
 
 This repo supports the blog post
 
