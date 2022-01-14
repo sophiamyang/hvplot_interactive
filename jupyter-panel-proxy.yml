@@ -1,0 +1,3 @@
+# See https://github.com/holoviz/jupyter-panel-proxy
+apps: hvplot_interactive.ipynb
+autoreload: true
