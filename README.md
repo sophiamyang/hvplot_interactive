@@ -11,19 +11,19 @@ dashboard using hvplot `.interactive`**
 
 by Sophia Yang and Marc Skov Madsen
 
+![DataFrame App](assets/easy-dataframe-exploration.gif)
+
 Check out the code and apps on
 
-| Jupyter Notebook | Jupyter Labs | Panel Apps |
-| - | - | - |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=panel) |
+| Jupyter Notebook | Jupyter Labs | Panel Apps | Colab |
+| - | - | - | - |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=panel) | [Colab](https://colab.research.google.com/github/MarcSkovMadsen/hvplot_interactive/blob/get-working-on-binder-and-colab/hvplot_interactive.ipynb)
 
 | Jupyter Notebook | Jupyter Labs | Panel Apps |
 | - | - | - |
 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=panel) |
 
 https://colab.research.google.com/github/MarcSkovMadsen/hvplot_interactive/blob/get-working-on-binder-and-colab/hvplot_interactive.ipynb
-
-![DataFrame App](assets/easy-dataframe-exploration.gif)
 
 ## Installation
 
