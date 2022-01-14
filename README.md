@@ -6,7 +6,7 @@
 
 This repo supports the blog post
 
-**The Easiest Way to Create an Interactive Dashboard in Python Turn Pandas pipelines into a
+**The Easiest Way to Create an Interactive Dashboard in Python. Turn Pandas pipelines into a
 dashboard using hvplot `.interactive`**
 
 by Sophia Yang and Marc Skov Madsen
@@ -16,6 +16,12 @@ Check out the code and apps on
 | Jupyter Notebook | Jupyter Labs | Panel Apps |
 | - | - | - |
 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/HEAD?urlpath=panel) |
+
+| Jupyter Notebook | Jupyter Labs | Panel Apps |
+| - | - | - |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/get-working-on-binder-and-colab?urlpath=panel) |
+
+![DataFrame App](assets/easy-dataframe-exploration.gif)
 
 ## Installation
 
