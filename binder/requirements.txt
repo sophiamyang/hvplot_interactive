@@ -1,2 +1,3 @@
 hvplot
 panel
+jupyter-panel-proxy
