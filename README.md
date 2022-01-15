@@ -75,4 +75,8 @@ On the back of this work we created or updated the following Features
 - [Auto determine and configure the environment](https://github.com/holoviz/panel/issues/2242#issuecomment-1013609253)
 - [Could hvplot.interactive please support outputting to responsive hvplots](https://github.com/holoviz/hvplot/issues/695)
 
+## VS Code in Binder
+
+To work with Panel and hvplot in VS Code in Binder you will need to set the python and Jupyter interpreter to `notebook` before you open the notebook.
+
 ## License: MIT
