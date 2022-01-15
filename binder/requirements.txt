@@ -1,3 +1,4 @@
 hvplot
 panel
 jupyter-panel-proxy
+jupyter-vscode-proxy
