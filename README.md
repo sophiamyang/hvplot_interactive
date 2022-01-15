@@ -4,7 +4,7 @@
 
 🐍🐼📈❤️
 
-This repo supports the blog post
+This repo supports the [blog post](https://sophiamyang.medium.com/the-easiest-way-to-create-an-interactive-dashboard-in-python-77440f2511d1?sk=e1ea8c40c090cdbe7689333267f73b25)
 
 **The Easiest Way to Create an Interactive Dashboard in Python. Turn Pandas pipelines into a
 dashboard using hvplot `.interactive`**
