@@ -1,5 +1,6 @@
 hvplot
 panel
-jupyter-panel-proxy
-jupyter-vscode-proxy
-ipykernel
+jupyter-panel-proxy # Adds Panel icon to Jupyter lab launchpad, to launch Panel app(s)
+jupyter-vscode-proxy # Needed for VS Code in Jupyter Lab
+jupyter_bokeh # needed for VS Code
+ipykernel>=6.7 # needed to be able to change between kernels in VS Code

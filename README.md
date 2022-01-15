@@ -28,15 +28,15 @@ You can use either conda or pip. Here we provide the instructions for conda.
 ### Basic
 
 ```bash
-conda install hvplot panel pandas jupyterlab
+conda install -c conda-forge hvplot panel pandas jupyterlab
 ```
 
 ### Advanced
 
-Includes the [Jupyter Preview](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) and [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) server.
+Includes the [Jupyter Preview](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) and [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) server. Will also work in VS Code.
 
 ```bash
-conda create --name hvplot_interactive -c conda-forge hvplot panel pandas jupyterlab jupyter-panel-proxy
+conda create --name hvplot_interactive -c conda-forge hvplot panel pandas jupyterlab jupyter-panel-proxy jupyter_bokeh
 conda activate hvplot_interactive
 jupyter serverextension enable panel.io.jupyter_server_extension
 ```
