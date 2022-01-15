@@ -43,7 +43,7 @@ conda activate hvplot_interactive
 jupyter serverextension enable panel.io.jupyter_server_extension
 ```
 
-### Run notebook
+### Run notebook locally
 
 To run the notebook
 
@@ -54,7 +54,7 @@ jupyter lab hvplot_interactive.ipynb
 If you installed [`jupyter-panel-proxy`](https://github.com/holoviz/jupyter-panel-proxy), then (on unix based systems) you can open the app at
 http://localhost:8888/panel/
 
-### Serve the app
+### Serve the app locally
 
 To serve the app with auto reload you can run
 
@@ -62,11 +62,18 @@ To serve the app with auto reload you can run
 panel serve hvplot_interactive.ipynb --autoreload --show
 ```
 
+The app will appear at http://localhost:5006/hvplot_interactive
+
+### Use VS Code on Binder
+
+To work with Panel and hvplot in VS Code in Binder you will need to set the python and Jupyter interpreter to `notebook` before you open the notebook.
+
 ## Issues
 
 On the back of this work we created or updated the following Issues
 
 - [https://github.com/holoviz/hvplot/issues/696](https://github.com/holoviz/hvplot/issues/696)
+- [Holoviews/ hvplot not working in Notebook in code server on Binder](https://github.com/coder/code-server/issues/4753).
 
 ## Feature Requests
 
@@ -76,9 +83,5 @@ On the back of this work we created or updated the following Features
 - [Enable users to easily get running environment: notebook, lab, colab, vscode, server, na](https://github.com/holoviz/panel/issues/3103)
 - [Auto determine and configure the environment](https://github.com/holoviz/panel/issues/2242#issuecomment-1013609253)
 - [Could hvplot.interactive please support outputting to responsive hvplots](https://github.com/holoviz/hvplot/issues/695)
-
-## VS Code in Binder
-
-To work with Panel and hvplot in VS Code in Binder you will need to set the python and Jupyter interpreter to `notebook` before you open the notebook.
 
 ## License: MIT
