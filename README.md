@@ -74,5 +74,6 @@ On the back of this work we created or updated the following Features
 - [Enable users to easily get running environment: notebook, lab, colab, vscode, server, na](https://github.com/holoviz/panel/issues/3103)
 - [Auto determine and configure the environment](https://github.com/holoviz/panel/issues/2242#issuecomment-1013609253)
 - [Could hvplot.interactive please support outputting to responsive hvplots](https://github.com/holoviz/hvplot/issues/695)
+- [pn.widgets not working in a list](https://github.com/holoviz/hvplot/issues/697)
 
 ## License: MIT
