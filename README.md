@@ -21,6 +21,8 @@ Check out the notebook and app on Binder or in Colab
 
 [![Colab Video](assets/hvplot-example-colab.gif)](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb).
 
+https://mybinder.org/v2/gh/marcskovmadsen/hvplot_interactive/update-readme?urlpath=vscode
+
 ## Installation
 
 You can use either conda or pip. Here we provide the instructions for conda.
