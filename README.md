@@ -33,8 +33,6 @@ You can use either conda or pip. Here we provide the instructions for conda.
 conda install hvplot panel pandas jupyterlab
 ```
 
-You can replace `conda` with [`mamba`](https://github.com/mamba-org/mamba) for better performance.
-
 ### Advanced
 
 Includes the [Jupyter Preview](https://blog.holoviz.org/panel_0.12.0.html#JupyterLab-previews) and [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) server.
