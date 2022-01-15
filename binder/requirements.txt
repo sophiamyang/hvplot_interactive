@@ -2,3 +2,4 @@ hvplot
 panel
 jupyter-panel-proxy
 jupyter-vscode-proxy
+ipykernel>=6.7 # Needed for vs code
