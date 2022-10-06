@@ -13,7 +13,7 @@ by [Sophia Yang](https://twitter.com/sophiamyang) and [Marc Skov Madsen](https:/
 
 [![DataFrame App](assets/easy-dataframe-exploration.gif)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb)
 
-Check out the notebook and app on Binder or in Colab
+Check out the notebook and app on Github page, Binder, or Colab
 
 | Github Page | Jupyter Notebook | Jupyter Labs | Panel Apps | VS Code | Colab |
 | - | - | - | - | - | - |
