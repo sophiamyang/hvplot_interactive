@@ -13,11 +13,11 @@ by [Sophia Yang](https://twitter.com/sophiamyang) and [Marc Skov Madsen](https:/
 
 [![DataFrame App](assets/easy-dataframe-exploration.gif)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb)
 
-Check out the notebook and app on Binder or in Colab
+Check out the notebook and app on Github page, Binder, or Colab
 
-| Jupyter Notebook | Jupyter Labs | Panel Apps | VS Code | Colab |
-| - | - | - | - | - |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=panel) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=vscode) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb)
+| Github Page | Jupyter Notebook | Jupyter Labs | Panel Apps | VS Code | Colab |
+| - | - | - | - | - | - |
+| [Github](https://sophiamyang.github.io/hvplot_interactive/hvplot_interactive/hvplot_interactive) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?filepath=hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=lab/tree/hvplot_interactive.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=panel) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophiamyang/hvplot_interactive/HEAD?urlpath=vscode) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb)
 
 [![Colab Video](assets/hvplot-example-colab.gif)](https://colab.research.google.com/github/sophiamyang/hvplot_interactive/blob/HEAD/hvplot_interactive.ipynb).
 
